@@ -1,0 +1,832 @@
+# Course Overview - All Lecture Slides Text
+
+
+## 1. Day-1 (Zero Lecture)
+### Slide 1
+- UNIVERSITY INSTITUTE OF
+- ENGINEERING
+- DEPARTMENT OF ENGINEERING FOUNDATION-2
+- PROGRAM
+- NAME
+- :
+- Bachelor
+- of Engineering
+- SPECIALIZATION
+- :
+- COMPUTER SCIENCE & ENGINEERING
+- /
+- SEMESTER:Ist
+- SUBJECT
+- NAME-AI APPLICATIONS LAB
+- (SUBJECT
+- CODE-26ECP-102
+- )
+- Dr.Rachit
+- Manchanda
+- (E-7089)
+- Designation:-Assistant Professor
+- Academic Session
+- 2026-27
+- Odd
+- Semester
+- July-Dec 2026
+- CUmail
+- -ID :
+- rachit.ece@cumail.in
+
+### Slide 2
+- Vision of University
+- “To be globally recognized as a Centre of Excellence for Research, Innovation, Entrepreneurship and disseminating knowledge by providing inspirational learning to produce professional leaders for serving the society.”
+- 1
+
+### Slide 3
+- Mission of University
+- M1 :
+- Providing world class infrastructure, renowned academicians and ideal environment for Research, Innovation, Consultancy and Entrepreneurship relevant to the society.
+- M2 :
+- Offering programs & courses in consonance with National policies for nation building and meeting global challenges.
+- 2
+
+### Slide 4
+- Mission of University
+- M3
+- :	Designing Curriculum to match International standards, needs of Industry, civil 	society and for inculcation of traits of Creative Thinking and Critical Analysis as well as Human and Ethical values.
+- M4
+- :	Ensuring students delight by meeting their aspirations through blended learning, corporate mentoring, professional grooming, flexible curriculum and healthy atmosphere based on co-curricular and extra-curricular activities.
+- 3
+
+### Slide 5
+- Mission of University
+- M5
+- :	Creating a scientific, transparent and objective examination/evaluation system to ensure an ideal certification.
+- M6
+- :	Establishing strategic relationships with leading National and International corporates and universities for academic as well as research collaborations.
+- 4
+
+### Slide 6
+- Mission of University
+- M7:
+- Contributing for creation of healthy, vibrant and sustainable society by involving in Institutional Social Responsibility (ISR) activities like rural development, welfare of 	senior citizens, women empowerment, community service, health and hygiene awareness and environmental protection.
+- 5
+
+### Slide 7
+- Vision of Department
+- To be recognized as a leading
+- engineering
+- department through effective teaching practices and excellence in research and innovation for creating competent professionals with ethics, values and entrepreneurial attitude to deliver service to society and to meet the current industry standards at the global level.
+- 6
+
+### Slide 8
+- Mission of Department
+- M1
+- :	To provide practical knowledge using state-of-the-art technological support for the experiential learning of our students.
+- M2
+- :	To provide industry recommended curriculum and transparent assessment for quality learning experiences.
+- M3
+- :	To create global linkages for interdisciplinary collaborative learning and research.
+- 7
+
+### Slide 9
+- Program Educational Objectives (PEOs)
+- PEO 1:
+- To produce
+- engineering
+- graduate engineers with an ability to comprehend, understand and analyze real life problems for providing sustainable solutions in the light of disruptive technologies.
+- PEO 2:
+- To inculcate life-long learning skills in graduates preparing them for work in changing environments and multidisciplinary teams in order to enhance their capability being globally employable.
+- </a:r><a:br><a:rPr lang="en-US" sz="3000" b="1" i="0" u="none" strike="noStrike" cap="none" dirty="0"><a:solidFill><a:schemeClr val="bg2"/></a:solidFill><a:latin typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:ea typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:sym typeface="Arial"/></a:rPr></a:br><a:endParaRPr lang="en-US" sz="3000" b="1" i="0" u="none" strike="noStrike" cap="none" dirty="0"><a:solidFill><a:schemeClr val="bg2"/></a:solidFill><a:latin typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:ea typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:sym typeface="Arial"/></a:endParaRPr></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="7" name="TextBox 6"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="8709003" y="85987"/><a:ext cx="284052" cy="307777"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap="none" rtlCol="0"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang="en-IN" dirty="0" smtClean="0"/><a:t>8
+
+### Slide 10
+- Program Outcome (POs)
+- PO1:
+- Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.
+- PO2:
+- Problem analysis: Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions using first principles mathematics, natural sciences and engineering sciences.
+- PO3:
+- Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety and the cultural, societal, and environmental considerations.
+- PO4:
+- Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.
+- </a:r><a:br><a:rPr lang="pl-PL" sz="3000" b="1" i="0" u="none" strike="noStrike" cap="none" dirty="0" smtClean="0"><a:solidFill><a:schemeClr val="bg2"/></a:solidFill><a:latin typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:ea typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:sym typeface="Arial"/></a:rPr></a:br><a:endParaRPr lang="pl-PL" sz="3000" b="1" i="0" u="none" strike="noStrike" cap="none" dirty="0"><a:solidFill><a:schemeClr val="bg2"/></a:solidFill><a:latin typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:ea typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:sym typeface="Arial"/></a:endParaRPr></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="7" name="TextBox 6"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="8709003" y="85987"/><a:ext cx="284052" cy="307777"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap="none" rtlCol="0"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang="en-IN" dirty="0" smtClean="0"/><a:t>9
+
+### Slide 11
+- Program Outcome (POs
+- ) (cont..)
+- PO5:
+- Modern tool usage: Create, select, and apply appropriate techniques, resources and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+- PO6:
+- The Engineer and Society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+- PO7:
+- Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+- PO8:
+- Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+- PO9:
+- Individual and teamwork: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+- </a:r><a:br><a:rPr lang="pl-PL" sz="3000" b="1" i="0" u="none" strike="noStrike" cap="none" dirty="0" smtClean="0"><a:solidFill><a:schemeClr val="bg2"/></a:solidFill><a:latin typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:ea typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:sym typeface="Arial"/></a:rPr></a:br><a:endParaRPr lang="pl-PL" sz="3000" b="1" i="0" u="none" strike="noStrike" cap="none" dirty="0"><a:solidFill><a:schemeClr val="bg2"/></a:solidFill><a:latin typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:ea typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:sym typeface="Arial"/></a:endParaRPr></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="7" name="TextBox 6"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="8709003" y="85987"/><a:ext cx="284052" cy="307777"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap="none" rtlCol="0"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang="en-IN" dirty="0" smtClean="0"/><a:t>9
+
+### Slide 12
+- Program Outcome (POs
+- ) (cont..)
+- PO10:
+- Communication: Communicate effectively on complex computer science engineering activities with the engineering community like CSI society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+- PO11:
+- Project management and finance: Demonstrate knowledge and understanding of the computer science engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+- PO12:
+- Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life- long learning in the broadest context of computer science engineering changes
+- PO13:
+- Critical Thinking: Develop the ability to critically
+- analyse
+- engineering challenges and synthesize innovative solutions.
+- </a:r><a:br><a:rPr lang="pl-PL" sz="3000" b="1" i="0" u="none" strike="noStrike" cap="none" dirty="0" smtClean="0"><a:solidFill><a:schemeClr val="bg2"/></a:solidFill><a:latin typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:ea typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:sym typeface="Arial"/></a:rPr></a:br><a:endParaRPr lang="pl-PL" sz="3000" b="1" i="0" u="none" strike="noStrike" cap="none" dirty="0"><a:solidFill><a:schemeClr val="bg2"/></a:solidFill><a:latin typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:ea typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:sym typeface="Arial"/></a:endParaRPr></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="7" name="TextBox 6"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="8709003" y="85987"/><a:ext cx="284052" cy="307777"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap="none" rtlCol="0"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang="en-IN" dirty="0" smtClean="0"/><a:t>9
+
+### Slide 13
+- Program Outcome (POs
+- ) (cont..)
+- PO14:
+- Multidisciplinary Knowledge: Integrate knowledge from various disciplines to design systems or solve problems in interdisciplinary domains.
+- PO15:
+- Leadership: Exhibit leadership and decision-making capabilities in engineering and societal contexts.
+- PO16:
+- Global Perspective: Demonstrate awareness of global issues and trends and their implications for professional practice.
+- PO17:
+- Entrepreneurship: Apply engineering principles to identify business opportunities and create innovative products or services
+- </a:r><a:br><a:rPr lang="pl-PL" sz="3000" b="1" i="0" u="none" strike="noStrike" cap="none" dirty="0" smtClean="0"><a:solidFill><a:schemeClr val="bg2"/></a:solidFill><a:latin typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:ea typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:sym typeface="Arial"/></a:rPr></a:br><a:endParaRPr lang="pl-PL" sz="3000" b="1" i="0" u="none" strike="noStrike" cap="none" dirty="0"><a:solidFill><a:schemeClr val="bg2"/></a:solidFill><a:latin typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:ea typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" panose="020F0502020204030204" pitchFamily="34" charset="0"/><a:sym typeface="Arial"/></a:endParaRPr></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id="7" name="TextBox 6"/><p:cNvSpPr txBox="1"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x="8709003" y="85987"/><a:ext cx="284052" cy="307777"/></a:xfrm><a:prstGeom prst="rect"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap="none" rtlCol="0"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang="en-IN" dirty="0" smtClean="0"/><a:t>9
+
+### Slide 14
+- Program Specific Outcome (PSOs)
+- PSO 1: Empowering the students for continuous learning and deliver efficient solutions for emerging challenges in the computation domain.
+- PSO 2: Ability to apply standard software engineering principles to develop viable solutions for Information Technology Enabled Services (ITES).
+- 10
+
+### Slide 15
+- CHANDIGARH
+- UNIVERSITY
+- Academic
+- Calendar
+- for
+- the
+- Session
+- 2026-
+- 27
+- Version
+- 1.3
+- f
+- For
+- University
+- Institute
+- of
+- Computing]
+- ODD
+- SEMESTER:
+- JUL-
+- DEC
+- 2026
+- Date
+- Day
+- Activity
+- 01-07-
+- 2026
+- Wed
+- Start
+- of
+- registration
+- 2nd
+- Year onward
+- students
+- [All
+- Programs
+- of
+- UIC]
+- for
+- ODD
+- Semester
+- [01.07.2026
+- to
+- 13.07.2026]
+- 14-07-
+- 2026
+- Tue
+- Start
+- of
+- Odd
+- Semester-
+- Old
+- Batches
+- [All
+- Programs
+- of
+- UIC]
+- 20-07-
+- 2026
+- Mon
+- Orientation
+- &
+- Induction
+- 1st
+- Year
+- [All
+- Programs
+- of
+- UIC]
+- Batch
+- I
+- [20.07.2026
+- to
+- 25.07.2026]
+- 21-07-
+- 2026
+- Tue
+- Start
+- of
+- Odd
+- Semester-
+- 1st
+- Year,
+- [All
+- Programs
+- of
+- UIC]
+- Batch
+- I
+- 24-08-
+- 2026
+- Mon
+- Orientation
+- &
+- Induction
+- 1st
+- Year,
+- Batch
+- II
+- [24.08.2026
+- to
+- 26.08.2026]
+- 25-08-
+- 2026
+- Tue
+- Start
+- of
+- Odd
+- Semester
+- 1st
+- Year,
+- [All
+- Programs
+- of
+- UIC]
+- Batch
+- II
+- 3
+- 1
+- -
+- 08-
+- 2026
+- Mon
+- In
+- Semester
+- Test
+- [IST]
+- -
+- 01,
+- All
+- Years
+- [All
+- programs
+- of
+- UIC]
+- and
+- 1st
+- year,
+- Batch-
+- 1
+- [31.08.2026
+- to
+- 05.09.2026]
+- 18-09-
+- 2026
+- Fri
+- Fresher's
+- Party-
+- 2026
+- Intake
+- [All
+- Programs
+- of
+- UIC]
+- 26-09-
+- 2026
+- Sat
+- Orientation
+- &
+- Induction
+- [International
+- Students]
+- 1st
+- Year [All
+- Programs
+- of
+- UIC]
+- 28-09-
+- 2026
+- Mon
+- Practical
+- In
+- Semester
+- Test
+- [IST]
+- [28.09.2026
+- to
+- 03.10.2026]
+
+### Slide 16
+- CHANDIGARH
+- UNIVERSITY
+- Academic
+- Calendar
+- for
+- the
+- Session
+- 2026-
+- 27
+- Version
+- 1.3
+- f
+- For
+- University
+- Institute
+- of
+- Computing]
+- ODD
+- SEMESTER:
+- JUL-
+- DEC
+- 2026
+- Date
+- Day
+- Activity
+- 05-10-
+- 2026
+- Mon
+- Value
+- Added
+- Courses
+- (VAC)
+- Week
+- [05.10.2026
+- to
+- 09.10.2026]
+- *
+- 22-10-
+- 2026
+- Thu
+- In
+- Semester
+- Test
+- [IST]
+- -
+- 02
+- All
+- Years
+- [All
+- Programs
+- of
+- UIC]
+- [22.10.2026
+- to
+- 28.10.2026]
+- 09-11-
+- 2026
+- Mon
+- Diwali
+- Break
+- for
+- Students [09.11.2026
+- to
+- 11.11.2026]
+- 13-11-
+- 2026
+- Fri
+- Last
+- Teaching
+- Day
+- All
+- Years
+- [All
+- Programs
+- of
+- UIC]
+- 16-11-
+- 2026
+- Mon
+- End
+- Semester
+- Practical
+- Exam
+- Regular
+- &
+- Reappear-
+- [16.11.2026
+- to
+- 20.11.2026]
+- 23-11-
+- 2026
+- Mon
+- End
+- Semester
+- Theory
+- Exams-
+- Regular
+- &
+- Reappear-
+- [23.11.2026
+- to
+- 19.12.2026]
+- 15-12-
+- 2026
+- Tue
+- Winter
+- Term
+- 2026
+- {15.12.2026
+- to
+- 28.12.2026]
+- *
+- 19-12-
+- 2026
+- Sat
+- End
+- of
+- Odd
+- Semester
+- All
+- Years
+- [All
+- Programs
+- of
+- UIC]
+- 21-12-
+- 2026
+- Mon
+- Start
+- of
+- Registration
+- for
+- Even
+- Semester
+- [21.12.2026
+- to
+- 03.01.2027]
+- 02-01-
+- 2027
+- Sat
+- Announcement
+- of
+- Results
+- Note:
+- Saturd
+- a
+- y
+- on
+- 25
+- th
+- July
+- 2026
+- will
+- be
+- an
+- Academic
+- day
+- f
+- or
+- Ba
+- tch
+- 2026
+- [All
+- Programs
+- ]
+- The
+- regu
+- lar
+- time
+- t
+- a
+- ble
+- of
+- Monday
+- will
+- be
+- followed.
+
+### Slide 17
+- Course Information
+- Prerequisite
+- L
+- T   P
+- S   C  CH
+- Mathematics
+- 0
+- 0
+- 0
+- 3   1   3
+- Objectives
+- The objective of this course is to equip students with foundational knowledge and practical skills in data preprocessing, exploratory data analysis, and supervised machine learning, along with an understanding of core Artificial Intelligence, Machine Learning, and Generative AI concepts. The course aims to develop competency in using Azure AI tools and services for NLP, speech, vision, and information extraction, enabling learners to design and implement scalable AI-driven solutions aligned with industry practices and
+- AI-901
+- fundamentals.
+- 16
+
+### Slide 18
+- Course Outcomes
+- 17
+
+### Slide 19
+- This course focuses on Outcome Based Learning (OBE), providing a comprehensive understanding of data pre-processing techniques, Artificial Intelligence and Machine Learning (AIML) algorithms, and their applications in real-time scenarios. It equips students with essential skills to manipulate and analyze data, develop machine learning models, and integrate AI solutions with hardware for real-world engineering problems.
+- The AI Application Lab trains students in
+- practical, job-relevant skills
+- such as data preprocessing, model building, evaluation, and deployment using Python,
+- Scikit
+- -learn,
+- TensorFlow
+- , etc. The lab encourages the use of
+- real-world datasets and business-relevant problems
+- , aligning academic learning with what industry expects in domains like healthcare, finance, retail, and
+- cybersecurity
+- .
+- In the first year of your engineering,
+- students
+- will learn
+- about AI Applications Lab.
+- Importance
+- of Subject
+
+### Slide 20
+- Source:
+- https://link.springer.com/chapter/10.1007/978-3-031-06636-8_4
+- Disruptive technology is an
+- innovation
+- that significantly alters the way that consumers, industries, or businesses operate.
+- Figure- 1:
+- Disruptive Technologies
+- Disruptive Technologies
+
+### Slide 21
+- Applications
+- of the Subject
+- Figure-2
+- :Application of
+- AI
+- Source:
+- https
+- ://
+- techvidvan.com/tutorials/artificial-intelligence-applications
+- /
+- 18
+
+### Slide 22
+- Syllabus
+- (
+- Practical
+- )
+- 19
+
+### Slide 23
+- Syllabus
+- (
+- Practical
+- )
+- 19
+- CO Mapping
+
+### Slide 24
+- Syllabus
+- (
+- Practical
+- )
+- 19
+- CO Mapping
+
+### Slide 25
+- Text and R
+- eference Books
+- 27
+
+### Slide 26
+- E-learning Resources
+- 1
+- . Google Machine Learning Crash Course
+- https://
+- developers.google.com/machine-learning/crash-course
+- </a:r><a:br><a:rPr lang="en-IN" sz="2000" dirty="0"><a:latin typeface="Calibri" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" pitchFamily="34" charset="0"/></a:rPr></a:br><a:r><a:rPr lang="en-IN" sz="2000" b="1" dirty="0" smtClean="0"><a:latin typeface="Calibri" pitchFamily="34" charset="0"/><a:cs typeface="Calibri" pitchFamily="34" charset="0"/></a:rPr><a:t>2
+- .
+- Kaggle
+- Learn – Python, Pandas, and Machine
+- Learning
+- https://
+- www.kaggle.com/learn
+- 3. YouTube
+- –
+- StatQuest
+- with Josh
+- Starmer
+- https
+- ://
+- www.youtube.com/user/joshstarmer
+- 4
+- .
+- Towards Data Science – Exploratory Data Analysis Guide
+- https://towardsdatascience.com/exploratory-graph-analysis-3d4f9c63e92f/
+- 27
+
+### Slide 27
+- Content Beyond Syllabus
+- 28
+- S.
+- No.
+- Title
+- Objectives
+- 1
+- Credit
+- card
+- Default prediction
+- To
+- address
+- this
+- issue,
+- we
+- can
+- predict
+- potential
+- default
+- accounts
+- based
+- on
+- certain
+- attributes.
+- The
+- idea
+- is
+- that
+- the
+- earlier
+- the
+- potential
+- default
+- accounts
+- are detected,
+- the lower the losses we will embrace.
+- 2
+- Stock Market Analysis and Prediction
+- Many
+- analysts
+- and
+- scholars
+- have
+- always
+- been
+- fascinated
+- by
+- stock
+- market
+- forecasting. According
+- to
+- popular
+- belief,
+- stock
+- markets
+- are
+- simply
+- a
+- random
+- walk,
+- and
+- attempting
+- to
+- predict them. Because of the many variables involved, predicting stock prices is a difficult
+- task
+- in
+- and
+- of
+- it.
+- The
+- market
+- operates
+- like
+- a
+- voting
+- machine
+- in
+- the
+- near term, but it behaves like a weighing machine in the long run, allowing for the prediction
+- of
+- market
+- movements
+- over
+- a
+- longer
+- timescale.
+- 3
+- Toxic
+- comment
+- classification
+- In this project, you want to create a model that predicts to classify comments into different categories. Comments in social media are often abusive and insulting. Organizations often want to ensure that conversations don’t get too negative. This project
+- was
+- a
+- Kaggle
+- challenge,
+- where
+- the
+- participants
+- had
+- to
+- suggest
+- a
+- solution
+- for classifying toxic comments in several categories using NLP methods.
+
+### Slide 28
+- Assessment Model
+- 29
+
+### Slide 29
+- 3
+- 0
+- Internal & External Exam Evaluation Components (Practical)
+- S
+- No.
+- Direct Evaluation Instruments
+- Weightage
+- of actual
+- conduct
+- Assessment Tool
+- Skills
+- Evaluated
+- Employ
+- ability
+- Linkage (Industry Needs)
+- Frequency
+- of Task
+- Final Weightage
+- in Internal
+- Assessment
+- /External Evaluation
+- 1
+- Unit-1 Practical Evaluation
+- 15
+- marks
+- Conduct, Viva Voce, Written test
+- Data cleaning, feature engineering, Data manipulation, Data visualization
+- Data Analyst, BI Developer
+- 1
+- 15
+- 2
+- Unit-2 Practical Evaluation
+- 15
+- marks
+- Viva Voce, Written test
+- Azure AI tools, including Azure ML, NLP services, and AI agent systems.
+- Cloud Engineer, Azure Administrator, and AI Support Associate
+- 1
+- 15
+- 3
+- Unit–3 Practical Evaluation (Azure
+- AI-901
+- Practice
+- Test)
+- 15
+- marks
+- Azure Portal &
+- AI-901
+- Practice Test
+- Azure AI services for Natural Language Processing, Speech AI, Computer Vision, and information extraction
+- AI Engineer, Azure AI Developer, Computer Vision Engineer, and Cloud AI Support Associate
+- 1
+- 15
+- 4
+- Lab MST
+- 15 Marks
+- Conduct, Viva Voce, Written test
+- 1
+- 15
+- 5
+- External
+- Exam
+- 40
+- Marks
+- Project Implementation
+- Output and Project File
+- 1
+- Per
+- Sem
+- 40
+- 6
+- Azure
+- AI-901
+- Certification
+- Non
+- Graded but    Mandatory
+- 1
+- Per
+- Sem
+- NA
+
+### Slide 30
+- Thank You
+- 27
